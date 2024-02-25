@@ -1,0 +1,92 @@
+.canvas {
+    display: inline-block;
+}
+
+.btn {
+    display: inline-block;
+    position: absolute;
+    left: 520px;
+}
+
+.select {
+    display: inline-block;
+    position: absolute;
+    left: 600px;
+}
+
+.select1 {
+    display: inline-block;
+    position: absolute;
+    left: 600px;
+    top: 190px;
+}
+
+.input {
+    display: inline-block;
+    position: absolute;
+    left: 600px;
+    top: 140px;
+    width: 400px;
+}
+
+.span {
+    display: inline-block;
+    position: absolute;
+    left: 600px;
+    top: 120px;
+}
+
+.span1 {
+    display: inline-block;
+    position: absolute;
+    left: 600px;
+    top: 170px;
+}
+
+.img {
+    display: inline-block;
+    position: absolute;
+    left: 600px;
+    top: 55px;
+    width: 300px;
+}
+
+.span2 {
+    display: inline-block;
+    position: absolute;
+    left: 600px;
+    top: 35px;
+    width: 300px;
+}
+
+.span3 {
+    display: inline-block;
+    position: absolute;
+    left: 600px;
+    top: 300px;
+    width: 300px;
+}
+
+.span4 {
+    display: inline-block;
+    position: absolute;
+    left: 600px;
+    top: 220px;
+    width: 300px;
+}
+
+.span5 {
+    display: inline-block;
+    position: absolute;
+    left: 600px;
+    top: 260px;
+    width: 300px;
+}
+
+.img1 {
+    display: inline-block;
+    position: absolute;
+    left: 600px;
+    top: 350px;
+    width: 300px;
+}
